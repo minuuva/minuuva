@@ -1,11 +1,1 @@
-### Hi there! My name is Minu Choi and I am an aspiring data scientist, currently studying statistics at the University of Virginia. 
-
-<!--
-**minuuva/minuuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on data science projects that use Python, R, or SQL.
-- 📫 How to reach me: mminu0814@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am trilingual! I speak English and Korean at a native level and Spanish at a full business proficiency.
+### Hi there! My name is Minu Choi and I am an aspiring data scientist, currently studying statistics at the University of Virginia. So far, I have enjoyed colloborating with other students in data science projects that use Python, R, or SQL. I am looking forward to continuosly study them. You can reach me at mminu0814@gmail.com. A fun fact about me: I am trilingual! I speak English and Korean at a native level and Spanish at a full business proficiency.
