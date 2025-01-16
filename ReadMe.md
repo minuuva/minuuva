@@ -12,7 +12,6 @@ Hey,  my name is Minwoo Choi and I am pursuing a bachelor of science in data sci
 ![](https://github-readme-stats.vercel.app/api?username=minuuva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minuuva&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minuuva&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
 [![](https://visitcount.itsvg.in/api?id=minuuva&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
