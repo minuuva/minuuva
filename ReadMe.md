@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey,  my name is Minwoo Choi and I am pursuing a bachelor of science in data science at the University of Virginia.<br>I am currently working on a data engineering project, intended to learn more about data sources, ingestion methods, storage, and data transformations.<br>I would love to learn from industry experts and other enthusiasts! You can reach me at mminu0814@gmail.com
+Hey,  my name is Minwoo Choi and I am pursuing a bachelor of science in data science at the University of Virginia with concentrations on systems and analytics. I am currently working on a data engineering project, intended to learn more about data sources, ingestion methods, storage, and data transformations. I would love to learn from industry experts and other enthusiasts! You can reach me at mminu0814@gmail.com
 
 
 ## 🌐 Socials:
